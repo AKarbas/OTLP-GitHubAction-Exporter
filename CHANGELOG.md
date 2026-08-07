@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.2.10](https://github.com/StephenGoodall/OTLP-GitHubAction-Exporter/compare/v3.2.9...v3.2.10) (2026-08-07)
+
+
+### Bug Fixes
+
+* **deps:** Update Dependabot commit message configuration ([1643548](https://github.com/StephenGoodall/OTLP-GitHubAction-Exporter/commit/16435488acbf2cc08f106b90a5491cb3e6222d06))
+
 ## [3.2.9](https://github.com/StephenGoodall/OTLP-GitHubAction-Exporter/compare/v3.2.8...v3.2.9) (2026-06-30)
 
 
